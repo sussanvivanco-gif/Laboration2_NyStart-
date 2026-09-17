@@ -23,3 +23,4 @@ laborationmiun.netlify.app
         - Att pusha till GitHub lägger man till ändringar i repositoryn och publiceringen i Netlify är färdiga webbplatsen man skapar.
     Om du vill exkludera någon fil i projektet från versionshanteringen, hur gör du då?
         - Då skapar man en ny textfil i rotmappen och döper den till .gitignore där listar man filnamn och mappar och tas inte med i repot men finns kvar i rotmappen. Det kan t.ex. vara känsliga uppgifter/infomration, loggfiler
+    Korrigerar efter feedback
